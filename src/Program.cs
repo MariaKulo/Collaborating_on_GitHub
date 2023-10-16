@@ -14,7 +14,7 @@
             while (goal >= 1)
             {
                 Console.WriteLine(goal);
-                goal = goal - 1;
+                goal--;
             }
 
             Console.WriteLine("Done!");
