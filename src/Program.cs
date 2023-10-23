@@ -14,6 +14,8 @@
             while (goal >= 1)
             {
                 Console.WriteLine(goal);
+
+                // Decrease goal by 1 (same as goal = goal - 1)
                 goal--;
             }
 
